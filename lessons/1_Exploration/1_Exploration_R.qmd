@@ -1,0 +1,15 @@
+---
+title: "1. Exploration"
+format: html
+editor: visual
+---
+
+## Histogram
+
+A histogram is a simple way to visualise the distribution of a single continuous variable.
+
+```{r}
+# r code
+abalone <- read.csv("abalone.csv")
+hist(abalone$Weight, xlab="mass/g", main="Abalone mass", breaks=20)
+```

@@ -1,0 +1,36 @@
+---
+title: "1. Exploration"
+format: html
+editor: visual
+---
+
+```{r}
+#| echo: false
+#| output: false
+library(reticulate)
+use_condaenv("stats")
+```
+
+## Histogram
+
+A histogram is a simple way to visualise the distribution of a single continuous variable.
+
+```{r}
+# r code
+abalone <- read.csv("abalone.csv")
+hist(abalone$Weight, xlab="mass/g", main="Abalone mass", breaks=20)
+```
+
+```{python}
+import pandas as pd
+import matplotlib.pyplot as plt
+
+abalone = pd.read_csv("abalone.csv")
+fig, axs = plt.subplots(1, 1)
+axs.hist(abalone["Weight"], bins=15)
+axs.set_xlabel("mass/g")
+axs.set_ylabel("Frequency")
+axs.set_title("Abalone mass")
+plt.show()
+
+```
