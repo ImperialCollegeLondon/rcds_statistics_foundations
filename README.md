@@ -6,14 +6,14 @@ This course [https://github.com/ImperialCollegeLondon/rcds_statistics_foundation
 
 The course is organized in eight sessions, covering the topics listed below. The sessions will have a first hour discussing basic theory, then we will navigate together through practical exercises that connect theory to real-world applications, using either `Python` or `R` with real datasets. No prior mathematical or programming experience is required to attend this course.
 
-- Data exploration - 11/03
-- Descriptive statistics - 18/03
-- Foundations of probability - 25/03
-- Estimation and confidence - 01/04
-- Introduction to hypothesis testing (I) - 15/04
-- Introduction to hypothesis testing (II) - 22/04 
-- Modelling, dependency and correlation - 29/04
-- Introduction to Bayesian probability - 06/05
+- Exploration (John Pinney) 11/03/2026, 15.00-17.00, SALC 10 
+- Description (John Pinney) 18/03/2026, 15.00-17.00, SALC 7 
+- Probability (Aida Sanchez Ricol) 25/03/2026, 15.00-17.00, CHEM-06-C661 
+- Estimation (Aida Sanchez Ricol) 01/04/2026, 15.00-17.00, CHEM-06-C661 
+- Significance (John Pinney) 15/04/2026, 15.00-17.00, SALC 6 
+- Testing (John Pinney) 22/04/2026, 15.00-17.00, SALC 7 
+- Modelling (Jesús Urtasun) 29/04/2026, 15.00-17.00, SALC 1 
+- Evidence (Jesús Urtasun) 06/05/2026, 15.00-17.00, SALC 7 
 
 ## Prerequisites
 
