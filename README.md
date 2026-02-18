@@ -15,18 +15,19 @@ The course is organized in eight sessions, covering the topics listed below. The
 - Modelling (Jesús Urtasun) 29/04/2026, 15.00-17.00, SALC 1 
 - Evidence (Jesús Urtasun) 06/05/2026, 15.00-17.00, SALC 7 
 
-## Prerequisites
+## Requisites
+
+Codespaces as backup [...]
 
 The following courses are recommended, yet not mandatory, to warm-up and better follow the course:
 
 General programming:
 
-- Introduction to R
-[Introduction to R](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/r-programming/) 
-
 - Introduction to Python for Researchers
 [Introduction to Python for Researchers](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/python-for-researchers/) 
 (or equivalent prior learning)
+
+## Further learning
 
 Statistics, probability and hypothesis testing:
 
