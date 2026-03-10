@@ -6,7 +6,7 @@ This course [https://github.com/ImperialCollegeLondon/rcds_statistics_foundation
 
 The course is organized in eight sessions, covering the topics listed below. The sessions will have a first hour discussing basic theory, then we will navigate together through practical exercises that connect theory to real-world applications, using either `Python` or `R` with real datasets. No prior mathematical or programming experience is required to attend this course.
 
-- [Exploration](1_Exploration/1_Exploration.slides.html) (John Pinney) 11/03/2026, 15.00-17.00, SALC 10 
+- [Exploration](lessons/1_Exploration/1_Exploration.slides.html) (John Pinney) 11/03/2026, 15.00-17.00, SALC 10 
 - Description (John Pinney) 18/03/2026, 15.00-17.00, SALC 7 
 - Probability (Aida Sanchez Ricol) 25/03/2026, 15.00-17.00, CHEM-06-C661 
 - Estimation (Aida Sanchez Ricol) 01/04/2026, 15.00-17.00, CHEM-06-C661 
