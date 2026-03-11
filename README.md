@@ -1,6 +1,6 @@
 # ECRI Statistics Foundations
 
-<img src="/figures/imperial_ecri.png" width = 600>
+<img src="figures/imperial_ecri.png" width = 600>
 
 This course provides an introduction to the fields of descriptive statistics, probability theory, statistical inference and hypothesis testing. The purpose of the course is to build confidence in practical statistics and data analysis for research.
 
