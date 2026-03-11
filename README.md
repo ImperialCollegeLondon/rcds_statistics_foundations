@@ -1,10 +1,10 @@
 # ECRI Statistics Foundations
 
-<img src="/readme_figures/imperial_ecri.png" width = 600>
+<img src="/figures/imperial_ecri.png" width = 600>
 
-This course [https://github.com/ImperialCollegeLondon/rcds_statistics_foundations](https://github.com/ImperialCollegeLondon/rcds_statistics_foundations) provides an introduction to the fields of statistical inference, probability theory, and hypothesis testing. The purpose of the course is to build confidence in practical statistics, hpothesis testing and data analysis for research.
+This course provides an introduction to the fields of descriptive statistics, probability theory, statistical inference and hypothesis testing. The purpose of the course is to build confidence in practical statistics and data analysis for research.
 
-The course is organized in eight sessions, covering the topics listed below. The sessions will have a first hour discussing basic theory, then we will navigate together through practical exercises that connect theory to real-world applications, using either `Python` or `R` with real datasets. No prior mathematical or programming experience is required to attend this course.
+The course is organized into eight sessions, covering the topics listed below. The sessions will have a first hour discussing basic theory, then we will navigate together through practical exercises that connect theory to real-world applications, using `Python` with real datasets. No prior statistics experience is required to attend this course.
 
 - [Exploration](lessons/1_Exploration/1_Exploration.slides.html) (John Pinney) 11/03/2026, 15.00-17.00, SALC 10 
 - Description (John Pinney) 18/03/2026, 15.00-17.00, SALC 7 
@@ -15,33 +15,29 @@ The course is organized in eight sessions, covering the topics listed below. The
 - Modelling (Jesús Urtasun) 29/04/2026, 15.00-17.00, SALC 1 
 - Evidence (Jesús Urtasun) 06/05/2026, 15.00-17.00, SALC 7 
 
-## Requisites
+## Prerequisites
 
-Codespaces as backup [...]
+Some experience with programming in Python is essential to follow this course:
 
-The following courses are recommended, yet not mandatory, to warm-up and better follow the course:
+- [Introduction to Python for Researchers](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/python-for-researchers/) 
 
-General programming:
-
-- Introduction to Python for Researchers
-[Introduction to Python for Researchers](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/python-for-researchers/) 
-(or equivalent prior learning)
 
 ## Further learning
 
-Statistics, probability and hypothesis testing:
+#### Python
 
-- Basic statistics
-[Basic statistics](https://www.imperial.ac.uk/early-career-researcher-institute/learning-and-development/courses-by-programme/research-computing-and-data-science/basic-statistics/)
+- [Data Processing with Python Pandas](https://www.imperial.ac.uk/early-career-researcher-institute/learning-and-development/courses-by-programme/research-computing-and-data-science/data-processing-python-pandas/)
 
-- Introduction to sampling and hypothess testing
-[Introduction to sampling and hypothesis testing](https://www.imperial.ac.uk/early-career-researcher-institute/learning-and-development/courses-by-programme/research-computing-and-data-science/sampling-hypothesis-testing/)
+- [Plotting in Python with Matplotlib](https://www.imperial.ac.uk/early-career-researcher-institute/learning-and-development/courses-by-programme/research-computing-and-data-science/plotting-in-python-with-matplotlib/)
 
-- Further hypothesis testing
-[Further statistics and hypothesis testing](https://www.imperial.ac.uk/early-career-researcher-institute/learning-and-development/courses-by-programme/research-computing-and-data-science/further-hypothesis-testing/)
+- [Numerical Computing in Python with NumPy and SciPy](https://www.imperial.ac.uk/early-career-researcher-institute/learning-and-development/courses-by-programme/research-computing-and-data-science/numerical-computing-in-python-with-numpy--scipy/)
 
-- Regression and modelling
-[Regression and modelling](https://www.imperial.ac.uk/early-career-researcher-institute/learning-and-development/courses-by-programme/research-computing-and-data-science/regression-modelling/)
 
-### Extension
-Possibility to develop a more advanced series, revisiting these concepts in greater depth (spiral curriculum).
+#### Statistics and Data Science:
+
+- [Introduction to Sampling and Hypothesis Testing](https://www.imperial.ac.uk/early-career-researcher-institute/learning-and-development/courses-by-programme/research-computing-and-data-science/sampling-hypothesis-testing/)
+
+- [Further Hypothesis Testing](https://www.imperial.ac.uk/early-career-researcher-institute/learning-and-development/courses-by-programme/research-computing-and-data-science/further-hypothesis-testing/)
+
+- [Regression Modelling](https://www.imperial.ac.uk/early-career-researcher-institute/learning-and-development/courses-by-programme/research-computing-and-data-science/regression-modelling/)
+
