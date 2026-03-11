@@ -19,8 +19,7 @@ The course is organized into eight sessions, covering the topics listed below. T
 
 Some experience with programming in Python is essential to follow this course:
 
-- [Introduction to Python for Researchers](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/python-for-researchers/) 
-
+- [Introduction to Python for Researchers](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/python-for-researchers/)  (or equivalent prior learning)
 
 ## Further learning
 
