@@ -9,7 +9,7 @@ The course is organized into eight sessions, covering the topics listed below. T
 - [Exploration](https://imperialcollegelondon.github.io/rcds_statistics_foundations/lessons/1_Exploration/1_Exploration.slides.html) (John Pinney) 11/03/2026, 15.00-17.00, SALC 10 
 - [Description](https://imperialcollegelondon.github.io/rcds_statistics_foundations/lessons/2_Description/2_Description.slides.html) (John Pinney) 18/03/2026, 15.00-17.00, SALC 7 
 - [Probability](https://github.com/ImperialCollegeLondon/rcds_statistics_foundations/tree/main/lessons/3_Probability) (Aida Sanchez Ricol) 25/03/2026, 15.00-17.00, CHEM-06-C661 
-- Estimation (Aida Sanchez Ricol) 01/04/2026, 15.00-17.00, CHEM-06-C661 
+- [Estimation](https://github.com/ImperialCollegeLondon/rcds_statistics_foundations/tree/main/lessons/4_Estimation) (Aida Sanchez Ricol) 01/04/2026, 15.00-17.00, CHEM-06-C661 
 - Significance (John Pinney) 15/04/2026, 15.00-17.00, SALC 6 
 - Testing (John Pinney) 22/04/2026, 15.00-17.00, SALC 7 
 - Modelling (Jesús Urtasun) 29/04/2026, 15.00-17.00, SALC 1 
