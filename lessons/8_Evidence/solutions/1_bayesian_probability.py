@@ -22,8 +22,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Function applying Bayes' Theorem
-def bayes_theorem(prior, likelihood, evidence):
-    return (likelihood * prior) / evidence
+def bayes_theorem(prior, likelihood, marginal):
+    return (likelihood * prior) / marginal
 
 # Function computing marginal probability of evidence
 def marginal_probability(likelihoods, priors):

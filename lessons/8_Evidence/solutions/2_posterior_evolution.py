@@ -25,8 +25,8 @@ import matplotlib.pyplot as plt
 np.random.seed(123)
 
 # Function applying Bayes' Theorem
-def bayes_theorem(prior, likelihood, evidence):
-    return (likelihood * prior) / evidence
+def bayes_theorem(prior, likelihood, marginal):
+    return (likelihood * prior) / marginal
 
 # Function computing probability of evidence
 def total_probability(likelihoods, priors):
@@ -108,4 +108,4 @@ plt.ylabel("Posterior probability")
 plt.legend()
 plt.grid(True)
 # plt.savefig("evolution_posterior.png", dpi = 300, bbox_inches = "tight")
-# plt.show()
+plt.show()

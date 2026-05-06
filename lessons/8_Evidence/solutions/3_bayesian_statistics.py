@@ -27,8 +27,8 @@ from scipy.stats import beta
 # 1. Prepare coin example ........................................................
 
 # Prior beliefs
-alpha_prior = 2 # prior "pseudo-count" of heads
-beta_prior = 2  # prior "pseudo-count" of tails
+alpha_prior = 50 # prior "pseudo-count" of heads
+beta_prior = 50  # prior "pseudo-count" of tails
 
 # Observed data
 data = [1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0]  # 1 = head, 0 = tail
@@ -69,4 +69,4 @@ plt.xlabel("\u03B8 (probability of heads)")
 plt.ylabel("Density")
 plt.legend()
 # plt.savefig("bayesian_posterior.png", dpi = 300, bbox_inches = "tight")
-# plt.show()
+plt.show()
